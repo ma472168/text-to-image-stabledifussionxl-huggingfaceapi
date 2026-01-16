@@ -14,7 +14,7 @@ This application allows users to generate high-quality images from text descript
 
 ## 📸 Demo
 
-![Demo Screenshot](demo.png)
+![Demo Screenshot](assets/demo.png)
 
 ## 🛠️ Tech Stack
 
